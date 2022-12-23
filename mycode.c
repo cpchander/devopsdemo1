@@ -4,9 +4,9 @@ Function1()
 {
 printf(“This is function 1”);
 }
-Function2()
+Functio4()
 {
-printf(“This is function 2”);
+printf(“This is function 4”);
 }
 }
 
